@@ -1,12 +1,12 @@
-Share Code
+Share-Code
 =========
 
-Share Code cung cấp một công cụ chia sẻ mã trực tiếp viết bằng PHP & JS mà không cần bất kỳ cài đặt hoặc cơ sở dữ liệu cụ thể nào.
+Share-Code cung cấp một công cụ chia sẻ mã trực tiếp viết bằng PHP & JS mà không cần bất kỳ cài đặt hoặc cơ sở dữ liệu cụ thể nào.
 
 Installation
 ------------
 
-Just copy/paste thư mục ShareCode bất cứ nơi nào bạn muốn sử dụng nó,
+Just copy/paste thư mục Share-Code bất cứ nơi nào bạn muốn sử dụng nó,
 or `git clone https://github.com/an97bka/Share-Code.git.
 
 Tùy thuộc vào quyền của bạn trong Linux, bạn có thể phải thay đổi chúng để cho phép ghi trong thư mục `codes/`.
