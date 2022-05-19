@@ -7,7 +7,7 @@ Installation
 ------------
 
 Just copy/paste thư mục Share-Code bất cứ nơi nào bạn muốn sử dụng nó,
-or `git clone https://github.com/an97bka/Share-Code.git.
+or `git clone https://github.com/tranandev/Share-Code.git.
 
 Tùy thuộc vào quyền của bạn trong Linux, bạn có thể phải thay đổi chúng để cho phép ghi trong thư mục `codes/`.
 
